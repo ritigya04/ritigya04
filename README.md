@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritigya04
 - 👀 I’m interested in competitive coding 
 - 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on coding, marketing
+- 💞️ I’m looking to collaborate on coding, marketing, web development
 - 📫 How to reach me at ritigyacharan508@gmail.com
 
 <!---
